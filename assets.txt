@@ -6,3 +6,6 @@ https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ8
 
 designer tool chrome extension:
 https://chromewebstore.google.com/detail/designer-tools/jiiidpmjdakhbgkbdchmhmnfbdebfnhp
+
+calculator chrome extension:
+https://chromewebstore.google.com/detail/calculator-app/ebdjfcijcofbapahkhlcnlenccmhhgjn
